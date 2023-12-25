@@ -11,30 +11,22 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@ckeditor/strapi-plugin-ckeditor": "^0.0.10",
     "@strapi/plugin-cloud": "4.16.2",
-    "@strapi/plugin-graphql": "^4.16.2",
     "@strapi/plugin-i18n": "4.16.2",
-    "@strapi/plugin-seo": "^1.9.8",
     "@strapi/plugin-users-permissions": "4.16.2",
-    "@strapi/provider-upload-cloudinary": "^4.16.2",
     "@strapi/strapi": "4.16.2",
-    "@strapi/utils": "^4.16.2",
     "better-sqlite3": "8.6.0",
     "pg": "^8.11.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
-    "strapi-plugin-ezforms": "^0.1.7",
-    "strapi-plugin-vercel-deploy": "^1.4.0",
-    "strapi-provider-email-resend": "^1.0.4",
     "styled-components": "5.3.3"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "128da19b-e258-4488-8c86-174e19d12069"
+    "uuid": "f74fcbcb-2eb7-4432-8afa-9a65e97f2f9a"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
