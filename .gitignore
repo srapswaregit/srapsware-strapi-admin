@@ -1,9 +1,3 @@
-.editorconfig
-.env.example
-.eslintrc
-.strapi*
-.eslintignore
-yarn.lock
 ############################
 # OS X
 ############################
@@ -15,7 +9,7 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
-
+.strapi
 
 ############################
 # Linux
@@ -105,6 +99,7 @@ node_modules
 # Tests
 ############################
 
+testApp
 coverage
 
 ############################
@@ -115,6 +110,7 @@ coverage
 license.txt
 exports
 *.cache
-dist
 build
 .strapi-updater.json
+yarn.lock
+package-lock.json
